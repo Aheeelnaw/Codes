@@ -1,0 +1,1 @@
+Thistuple=("Apple", "bannanna", "Toilet") 
